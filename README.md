@@ -12,7 +12,7 @@
 
  This is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://sanjaykumarkp.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://sanjaykumarkp.github.io/Portfolio"><strong>➥ Live Demo</strong></a>
 
 </div>
 
